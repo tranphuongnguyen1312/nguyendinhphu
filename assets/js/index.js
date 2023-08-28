@@ -11,7 +11,7 @@ function ShowToast() {
 
 function Tiktok() {
   setTimeout(function() {
-    window.open('https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.tiktok.com%2F%40dinhphu0378%3F_t%3D8fCv4AcZbKK%26_r%3D1%26fbclid%3DIwAR2qTrhI3_cS6bqyG2LMn4TE6CXOzBkz6I-znmnK6DsIm2MKDCZuIT41vYQ&h=AT2J3b4aNRxKiaA961K01Hcx5hD_arvnxx44HaJukTjmN7burw7tzk2ugRQHicnN6YYciMCRnrVECbLz-XlSqXjnRUWXqlEIPuDNNeoYKBJQp0qNuJRtU5rKcpoQ1D67R_mpUA', '_blank')},
+    window.open('https://www.tiktok.com/@dinhphu0378?_t=8fCv4AcZbKK&_r=1&fbclid=IwAR2qTrhI3_cS6bqyG2LMn4TE6CXOzBkz6I-znmnK6DsIm2MKDCZuIT41vYQ', '_blank')},
   100);
 }
 function Facebook() {
@@ -40,7 +40,7 @@ TurnonHomeThanhDieu();
         )
     }
 
-document.write('<div id="Toast">Welcome to TranPhuongNguyen website</div>');
+document.write('<div id="Toast">Welcome to NguyenDinhPhu website</div>');
 
 function error_page() {
 	Swal.fire(

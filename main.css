@@ -41,7 +41,7 @@
 }
 
 body {
-    background: url(assets/img/br.png) no-repeat fixed;
+    background: url(assets/img/ndp.png) no-repeat fixed center;
     background-size: cover;
     position: relative;
 }
@@ -416,18 +416,16 @@ footer {
 .info-box {
   background-color: black;
   width: 35%;
-  height:  150px;
+  height:  100px;
   border: 2px solid white;
   border-radius: 7px;
+
 }
 
 #location {
   margin-right: 20px;
 }
 
-#sc-info{
-  margin-left: 20px;
-}
 
 .info-box .aboutme {
   font-size: 15px;
